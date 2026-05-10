@@ -1,0 +1,20 @@
+[
+  {
+    "company": "OpenAI",
+    "founder": "Sam Altman",
+    "email": "contact@openai.com",
+    "linkedin": "https://openai.com"
+  },
+  {
+    "company": "Anthropic",
+    "founder": "Dario Amodei",
+    "email": "contact@anthropic.com",
+    "linkedin": "https://anthropic.com"
+  },
+  {
+    "company": "Perplexity",
+    "founder": "Aravind Srinivas",
+    "email": "contact@perplexity.ai",
+    "linkedin": "https://perplexity.ai"
+  }
+]
